@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dog Trainer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="a1">Sit</string>
+    <string name="a2">Stand</string>
+    <string name="a3">Speak</string>
+    <string name="a4">Sit</string>
+    <string name="a5">Stand</string>
+    <string name="a6">Speak</string>
+    <string name="a7">Sit</string>
+    <string name="a8">Stand</string>
+    <string name="a9">Speak</string>
+    <string name="a10">Sit</string>
+    <string name="a11">Stand</string>
+    <string name="a12">Speak</string>
+    
+</resources>
